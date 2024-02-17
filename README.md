@@ -1,3 +1,3 @@
 # My projects
 ## Проекты
-* [Проект 0. Игра: Угадай число](https://github.com/Anitakess/test/progect_0)
+* [Проект 0. Игра: Угадай число](https://github.com/Anitakess/test/tree/main/progect_0)
